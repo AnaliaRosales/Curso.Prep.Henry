@@ -1,0 +1,14 @@
+`for`: Es una estructura de control que se utiliza para repetir algo una y otra vez. 
+La esctructura del for es la siguiente:
+
+for (Declaramos una variable: inicialización;| Expresión condicicional: condición; | Incrementamos la variable: actualización) { 
+   	//instrucciones a ejecutar en cada vuelta en el ciclo
+}
+
+Operadores logicos
+
+`&&`: Es el operador logico "Y", "AND" en ingles. Evalua dos expresiones y dará true si ambas son verdaderas o ambas son falsas. Dará false si alguna de las dos es verdadera y la otra falsa. es decir, para que este operador devuelva true ambas expresiones deben tener el mismo valor de verdad.
+
+`||`: Es el operador logico "O", "OR" en ingles. Determina si una de las expresiones es true. Devolverá true si una (o ambas) de las expresiones es true. Devolverá false si AMBAS expresiones son false.
+
+`!`:  Es el operador logico "NO", "NOT" en ingles..Devolverá el valor booleano opuesto de lo que se le pasa.
